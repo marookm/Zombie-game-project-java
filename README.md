@@ -1,4 +1,4 @@
-# Zombie-game BY JENGZY
+# Zombie-game BY Supisara
 ## Player :sunglasses:
 
 <img src="src/main/java/org/example/assets/Player.png" />
